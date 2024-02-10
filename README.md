@@ -7,4 +7,4 @@ Tech stack:
 - ExpoGo
 - DB???
 
-React Native docs: [https://reactnative.dev/] https://reactnative.dev/
+React Native docs: [https://reactnative.dev/](https://reactnative.dev/ "ReactNative Docs")
