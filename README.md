@@ -2,9 +2,13 @@
 MVP to have users upload images under categories to share with others.
 
 Tech stack:
-- React Native
-- Nodejs V20.10.0
+- React Native Mobile app
 - ExpoGo
-- DB???
 
 React Native docs: [https://reactnative.dev/](https://reactnative.dev/ "ReactNative Docs")
+
+
+
+This is an open source project for educational purposes.
+
+
