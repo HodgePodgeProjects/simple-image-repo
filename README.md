@@ -27,3 +27,4 @@ If you have issues connecting with your mobile device, try connecting both your 
 Out-of-the-box this development environment uses port 8081 on the local network, many enterprise networks will have this blocked so it's best to check it at home or with a hotspot.
 
 If you have any issues getting it to work, you can review the setup documentation at reactnative.dev
+
